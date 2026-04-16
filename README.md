@@ -1,7 +1,10 @@
 👋 Hola, soy Cesar Ramirez
 
+
 💻 Desarrollador: apasionado por la tecnología
+
 🚀 Enfocado en: Desarrollo Web - Musica - Estudios
+
 📍 Desde: Peru - Sullana 
 
 🧠 Sobre mí: 
